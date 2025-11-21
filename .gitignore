@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+/.vite
+/.idea
+.vscode/
+npm-debug.log*
+.DS_Store
+coverage/
+public/build/
